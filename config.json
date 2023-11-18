@@ -1,0 +1,7 @@
+{
+  "prefix": "-",
+  "VouchLog_channel_id": urdiscordvouchchannelid,
+  "token": "urdiscordbottoken",
+  "gban_allowed_ids": [1154821885763256460, urdiscordid], 
+  "gban_log_channel_id": urgbanlogchannel
+}
