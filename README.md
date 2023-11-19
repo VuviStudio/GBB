@@ -1,5 +1,5 @@
 # GBB-Configure
-Gbb bot (encrypted)
+Gbb bot (source)
 
 # Setup
 How to setup
