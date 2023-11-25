@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import json
 import asyncio
 
-mongo_uri = "mongodb+srv://vuvi:fcLIF5oab3QDZKa4@cluster0.geafzyy.mongodb.net/?retryWrites=true&w=majority"
+mongo_uri = "mongodb+srv://vuvi:@cluster0.geafzyy.mongodb.net/?retryWrites=true&w=majority"
 mongo_client = MongoClient(mongo_uri, server_api=ServerApi('1'))
 db = mongo_client.get_database("OpenGbbvouches")
 collection_name = "vouches"
